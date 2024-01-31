@@ -1,1 +1,2 @@
-randomNumber1 = Math.floor(Math.random() * 6) + 1; // 1-6
+randomNumber1 = Math.floor(Math.random() * 6) + 1; 
+console.log(randomNumber1);
